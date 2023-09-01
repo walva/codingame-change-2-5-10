@@ -1,12 +1,12 @@
 {
   "name": "gp/exercise",
   "require-dev": {
-    "phpunit/phpunit": "^10.3"
+    "phpunit/phpunit": "^10.3",
+    "symfony/var-dumper": "^6.3"
   },
   "authors": [
     {
       "name": "Levy Daelman"
     }
-  ],
-  "require": {}
+  ]
 }
